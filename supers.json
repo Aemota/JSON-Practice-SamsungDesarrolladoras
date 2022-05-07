@@ -1,0 +1,124 @@
+{
+   "SUPERMERCADOS": [
+    {
+        "Supermercado Nº1": [
+            {
+                "Nombre": "Mercadona",
+                "Dirección": "C/ Píndano - C/ Aristófanes, s/n, 29010",
+                "Ciudad": "Málaga",
+                "Secciones": "Frutería y Carnicería",
+                "Número de productos por sección": 3
+            },
+            {
+                "Sección": "Frutería",
+                "Productos": [
+                    {
+                        "nombre": "Manzana Reineta",
+                        "Precio/kg": 1.45,
+                        "Peso aprox. por unidad(gr)": 210,
+                        "Perecedero": true
+                    },
+                    {
+                        "nombre": "Pera Ercolini",
+                        "Precio/kg": 2.22,
+                        "Peso aprox. por unidad(gr)": 105,
+                        "Perecedero": true
+                    },
+                    {
+                        "nombre": "Aguacate",
+                        "Precio/kg": 4.09,
+                        "Peso aprox. por unidad(gr)": 140,
+                        "Perecedero": true
+                    }
+                ]
+            },
+            {
+                "Sección": "Carnicería",
+                "Productos": [
+                    {
+                        "nombre": "Pollo Alas Fresco",
+                        "Precio/kg": 4.17,
+                        "Peso aprox. por unidad(gr)": 900,
+                        "Perecedero": true
+                    },
+                    {
+                        "nombre": "Ternera Filete Lomo Añojo Fresco",
+                        "Precio/kg": 12.9,
+                        "Peso aprox. por unidad(gr)": 300,
+                        "Perecedero": true
+                    },
+                    {
+                        "nombre": "Codornices Fresco, Aeropic",
+                        "Precio/kg": 7.10,
+                        "Peso aprox. por unidad(gr)": 400,
+                        "Perecedero": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Supermercado Nº2": [
+            {
+                "Nombre": "Carrefour",
+                "Dirección": "Prolongación, Av. de Andalucía, s/n, 29007",
+                "Ciudad": "Málaga",
+                "Secciones": "Pescadería y Panadería",
+                "Número de productos por sección": 3
+            },
+            {
+                "Sección": "Pescadería",
+                "Productos": [
+                    {
+                        "nombre": "Filete de Merluza del Cabo",
+                        "Precio/kg": 6.65,
+                        "Peso aprox. por unidad(gr)": 600,
+                        "Perecedero": true,
+                        "Congelado": true
+                    },
+                    {
+                        "nombre": "Salmón ahumado noruego",
+                        "Precio/kg": 31.90,
+                        "Peso aprox. por unidad(gr)": 100,
+                        "Perecedero": true,
+                        "Congelado": false
+                    },
+                    {
+                        "nombre": "Lubina de ración",
+                        "Precio/kg": 7.99,
+                        "Peso aprox. por unidad(gr)": 600,
+                        "Perecedero": true,
+                        "Congelado": false
+                    }
+                ]
+            },
+            {
+                "Sección": "Panadería",
+                "Productos": [
+                    {
+                        "nombre": "Pan de leche carrefour",
+                        "Precio/kg": 3.74,
+                        "Peso aprox. por unidad(gr)": 350,
+                        "Perecedero": false,
+                        "Consumir preferentemente antes de": "ver frontal del lote"
+                    },
+                    {
+                        "nombre": "Magdalenas redondas La Bella Easo",
+                        "Precio/kg": 5.11,
+                        "Peso aprox. por unidad(gr)": 522,
+                        "Perecedero": false,
+                        "Consumir preferentemente antes de": "ver frontal del lote"
+                    },
+                    {
+                        "nombre": "Pan de pueblo sin aditivos",
+                        "Precio/kg": 1.44,
+                        "Peso aprox. por unidad(gr)": 800,
+                        "Perecedero": true,
+                        "Consumir preferentemente": "entre uno y dos días"
+                    }
+                ]
+            }
+        ]
+    }
+  ]
+}

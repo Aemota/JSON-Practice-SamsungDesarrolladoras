@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<SUPERMERCADOS>
+		<Supermercado Nº1>
+			<Nombre>Mercadona</Nombre>
+			<Dirección>C/ Píndano - C/ Aristófanes, s/n, 29010</Dirección>
+			<Ciudad>Málaga</Ciudad>
+			<Secciones>Frutería y Carnicería</Secciones>
+			<Número de productos por sección>3</Número de productos por sección>
+		</Supermercado Nº1>
+		<Supermercado Nº1>
+			<Sección>Frutería</Sección>
+			<Productos>
+				<nombre>Manzana Reineta</nombre>
+				<Precio/kg>1.45</Precio/kg>
+				<Peso aprox. por unidad(gr)>210</Peso aprox. por unidad(gr)>
+				<Perecedero>true</Perecedero>
+			</Productos>
+			<Productos>
+				<nombre>Pera Ercolini</nombre>
+				<Precio/kg>2.22</Precio/kg>
+				<Peso aprox. por unidad(gr)>105</Peso aprox. por unidad(gr)>
+				<Perecedero>true</Perecedero>
+			</Productos>
+			<Productos>
+				<nombre>Aguacate</nombre>
+				<Precio/kg>4.09</Precio/kg>
+				<Peso aprox. por unidad(gr)>140</Peso aprox. por unidad(gr)>
+				<Perecedero>true</Perecedero>
+			</Productos>
+		</Supermercado Nº1>
+		<Supermercado Nº1>
+			<Sección>Carnicería</Sección>
+			<Productos>
+				<nombre>Pollo Alas Fresco</nombre>
+				<Precio/kg>4.17</Precio/kg>
+				<Peso aprox. por unidad(gr)>900</Peso aprox. por unidad(gr)>
+				<Perecedero>true</Perecedero>
+			</Productos>
+			<Productos>
+				<nombre>Ternera Filete Lomo Añojo Fresco</nombre>
+				<Precio/kg>12.9</Precio/kg>
+				<Peso aprox. por unidad(gr)>300</Peso aprox. por unidad(gr)>
+				<Perecedero>true</Perecedero>
+			</Productos>
+			<Productos>
+				<nombre>Codornices Fresco, Aeropic</nombre>
+				<Precio/kg>7.1</Precio/kg>
+				<Peso aprox. por unidad(gr)>400</Peso aprox. por unidad(gr)>
+				<Perecedero>true</Perecedero>
+			</Productos>
+		</Supermercado Nº1>
+	</SUPERMERCADOS>
+</root>
